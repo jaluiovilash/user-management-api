@@ -4,12 +4,12 @@ This is a simple Express.js application that provides a REST API for managing us
 
 ## Getting Started
 
-## Prerequisites
+### Prerequisites
 
 - Node.js
 - npm (Node Package Manager)
 
-## Installation
+### Installation
 
 1. Clone the repository:
    ```sh
@@ -26,7 +26,7 @@ This is a simple Express.js application that provides a REST API for managing us
    npm install
    ```
 
-## Usage
+### Usage
 
 1. Start the server:
    ```sh
@@ -37,7 +37,7 @@ This is a simple Express.js application that provides a REST API for managing us
 
 ## Endpoints
 
-#### 1. Get List of Users
+### 1. Get List of Users
 
 - **URL**: `/api/users`
 - **Method**: `GET`
@@ -55,7 +55,7 @@ This is a simple Express.js application that provides a REST API for managing us
   ]
   ```
 
-#### 2. Get User Names
+### 2. Get User Names
 
 - **URL**: `/users`
 - **Method**: `GET`
@@ -68,7 +68,7 @@ This is a simple Express.js application that provides a REST API for managing us
   </ul>
   ```
 
-#### 3. Get User Details by ID
+### 3. Get User Details by ID
 
 - **URL**: `/api/users/:id`
 - **Method**: `GET`
@@ -83,7 +83,7 @@ This is a simple Express.js application that provides a REST API for managing us
   }
   ```
 
-#### 4. Manage User by ID
+### 4. Manage User by ID
 
 - **URL**: `/api/user/:id`
 - **Methods**: `GET`, `PATCH`, `DELETE`
@@ -106,7 +106,7 @@ This is a simple Express.js application that provides a REST API for managing us
     }
     ```
 
-#### 5. Create New User
+### 5. Create New User
 
 - **URL**: `/api/users`
 - **Method**: `POST`
@@ -129,7 +129,7 @@ This is a simple Express.js application that provides a REST API for managing us
 
 ## Middleware
 
-- **express.urlencoded**: Parses incoming requests with URL-encoded payloads.
+- **express.URL-encoded**: Parses incoming requests with URL-encoded payloads.
 
 ## Data
 
@@ -138,3 +138,5 @@ This is a simple Express.js application that provides a REST API for managing us
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
