@@ -1,15 +1,15 @@
-# User Management API
+## User Management API
 
 This is a simple Express.js application that provides a REST API for managing users. The application allows you to get a list of users, get user details by ID, create new users, update existing users, and delete users.
 
 ## Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - Node.js
 - npm (Node Package Manager)
 
-### Installation
+## Installation
 
 1. Clone the repository:
    ```sh
@@ -26,7 +26,7 @@ This is a simple Express.js application that provides a REST API for managing us
    npm install
    ```
 
-### Usage
+## Usage
 
 1. Start the server:
    ```sh
@@ -35,7 +35,7 @@ This is a simple Express.js application that provides a REST API for managing us
 
 2. The server will start running on `http://localhost:8000`.
 
-### Endpoints
+## Endpoints
 
 #### 1. Get List of Users
 
