@@ -1,4 +1,4 @@
-## User Management API
+User Management API
 
 This is a simple Express.js application that provides a REST API for managing users. The application allows you to get a list of users, get user details by ID, create new users, update existing users, and delete users.
 
@@ -18,7 +18,7 @@ This is a simple Express.js application that provides a REST API for managing us
 
 2. Navigate to the project directory:
    ```sh
-   cd user-management-api
+   cd user-management-API
    ```
 
 3. Install the dependencies:
