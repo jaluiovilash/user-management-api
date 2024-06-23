@@ -1,4 +1,4 @@
-User Management API
+<h1>User Management API</h1>
 
 This is a simple Express.js application that provides a REST API for managing users. The application allows you to get a list of users, get user details by ID, create new users, update existing users, and delete users.
 
